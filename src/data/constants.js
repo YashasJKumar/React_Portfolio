@@ -416,11 +416,10 @@ actionable insights to diagnose system issues.",
       {
         name: "Karthik R",
         img: "https://avatars.githubusercontent.com/u/111432615?v=4",
-        linkedin: "",
+        linkedin: "https://www.linkedin.com/in/k-arthik/",
         github: "https://github.com/k-arthik-r"
       },
     ],
   },
-
 ];
 
