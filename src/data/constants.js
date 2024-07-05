@@ -386,6 +386,41 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 4,
+    title: "AI Powered Log-Parser",
+    date: "Jul 2024",
+    description:
+      "A robust AI-powered solution that utilizes LLMs to parse device logs, identify patterns and anomalies, and provide
+actionable insights to diagnose system issues.",
+    image:
+      "https://cdn.dribbble.com/users/2058540/screenshots/8225403/media/bc617eec455a72c77feab587e09daa96.gif",
+    tags: [
+        "Gen AI",
+        "LLM",
+        "Langchain",
+        "Streamlit",
+        "Google Embedding",
+        "FAISS DB"
+    ],
+    category: "ai/ml",
+    github: "https://github.com/YashasJKumar/Log_Parser",
+    webapp: "https://log-parsing-tool.streamlit.app",
+    member: [
+      {
+        name: "Yashas J Kumar",
+        img: "https://avatars.githubusercontent.com/u/96472550?s=400&u=84332ef1d5f8824b4d4ee09922ff68b5b87c9fca&v=4",
+        linkedin: "https://www.linkedin.com/in/yashasjkumar/",
+        github: "https://github.com/yashasjkumar/",
+      },
+      {
+        name: "Karthik R",
+        img: "https://avatars.githubusercontent.com/u/111432615?v=4",
+        linkedin: "",
+        github: "https://github.com/k-arthik-r"
+      },
+    ],
+  },
 
 ];
 
