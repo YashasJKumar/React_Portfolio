@@ -391,8 +391,8 @@ export const projects = [
     title: "AI Powered Log-Parser",
     date: "Jul 2024",
     description:
-      "A robust AI-powered solution that utilizes LLMs to parse device logs, identify patterns and anomalies, and provide
-actionable insights to diagnose system issues.",
+      "A robust AI-powered solution that utilizes LLMs to parse device logs, identify patterns and anomalies, and provide " + 
+      "actionable insights to diagnose system issues.",
     image:
       "https://cdn.dribbble.com/users/2058540/screenshots/8225403/media/bc617eec455a72c77feab587e09daa96.gif",
     tags: [
