@@ -405,7 +405,7 @@ export const projects = [
     ],
     category: "ai/ml",
     github: "https://github.com/YashasJKumar/Log_Parser",
-    webapp: "https://log-parsing-tool.streamlit.app",
+    webapp: "https://ai-log-parsing-tool.streamlit.app",
     member: [
       {
         name: "Yashas J Kumar",
