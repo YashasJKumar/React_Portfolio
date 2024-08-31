@@ -6,7 +6,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated, consistent and versatile individual, always eager to take on new challenges.With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/YashasJKumar",
   resume:
     "https://drive.google.com/file/d/1phkMoWdDfy-YaNVPUPAVaa9rflOyH0I6/view?usp=drivesdk",
@@ -103,11 +103,6 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
-        name: "Google Colab",
-        image:
-          "https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png",
-      },
-      {
         name: "Scikit-Learn",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
@@ -164,7 +159,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D560BAQFV0JYJ33yONg/company-logo_200_200/0/1691701552297/bharat_intern_logo?e=1722470400&v=beta&t=CVhTPOhfTtP_E_DNly926LuLttkNe0UGgVR3DUblBbc",
+    img: "https://media.licdn.com/dms/image/D4D05AQHl12G1zFDm9Q/videocover-low/0/1694101221841?e=2147483647&v=beta&t=Vh9jK13K3CCHSlbPPrbuzJUD6fmQklh85dzmx3SLulE",
     role: "ML Intern",
     company: "Bharat Intern",
     date: "May 2024 - June 2024",
@@ -173,14 +168,6 @@ export const experiences = [
       "Machine Learning",
       "Scikit-Learn",
     ],
-  },
-  {
-    id: 5,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2024 - Present",
-    desc: "Learning to contribute to open-source projects and to enhance collaborative skills",
   },
 ];
 
