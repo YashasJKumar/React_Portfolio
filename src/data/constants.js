@@ -11,7 +11,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1phkMoWdDfy-YaNVPUPAVaa9rflOyH0I6/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/yashasjkumar/",
-  twitter: "https://twitter.com/",
+  twitter: "https://x.com/DevWizard_9600?t=-0hb69VIv71-u1dtn_3JfQ&s=08",
   insta: "https://www.instagram.com/_yashas_j_k_/",
   facebook: "https://www.facebook.com/",
 };
@@ -399,12 +399,6 @@ export const projects = [
         img: "https://avatars.githubusercontent.com/u/96472550?s=400&u=84332ef1d5f8824b4d4ee09922ff68b5b87c9fca&v=4",
         linkedin: "https://www.linkedin.com/in/yashasjkumar/",
         github: "https://github.com/yashasjkumar/",
-      },
-      {
-        name: "Karthik R",
-        img: "https://avatars.githubusercontent.com/u/111432615?v=4",
-        linkedin: "https://www.linkedin.com/in/k-arthik/",
-        github: "https://github.com/k-arthik-r"
       },
     ],
   },
