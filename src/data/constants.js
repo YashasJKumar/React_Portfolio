@@ -1,18 +1,19 @@
 export const Bio = {
   name: "Yashas J Kumar",
   roles: [
-    "Gen-AI Enthusiast",
-    "ML Enthusiast",
-    "Programmer",
+    "Tech Explorer",
+    "AI-ML Enthusiast",
+    "Cyber Security Learner",
+    "Programming Aficionado",
   ],
   description:
-    "I am a motivated, consistent and versatile individual, always eager to take on new challenges.With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated, consistent and versatile individual, always eager to take on new challenges.With a positive attitude and a growth mindset,I enjoy diving deep into the world of code and cyber defense.",
   github: "https://github.com/YashasJKumar",
   resume:
     "https://drive.google.com/file/d/1phkMoWdDfy-YaNVPUPAVaa9rflOyH0I6/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/yashasjkumar/",
-  twitter: "https://x.com/DevWizard_9600?t=-0hb69VIv71-u1dtn_3JfQ&s=08",
-  insta: "https://www.instagram.com/_yashas_j_k_/",
+  twitter: "https://x.com/",
+  insta: "https://www.instagram.com/",
   facebook: "https://www.facebook.com/",
 };
 
@@ -56,7 +57,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
       {
-        name: "JavaScript(Basics)",
+        name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
