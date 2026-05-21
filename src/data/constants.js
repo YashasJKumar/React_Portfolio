@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated, consistent and versatile individual, always eager to take on new challenges.With a positive attitude and a growth mindset,I enjoy diving deep into the world of code and cyber defense.",
   github: "https://github.com/YashasJKumar",
   resume:
-    "https://drive.google.com/file/d/1phkMoWdDfy-YaNVPUPAVaa9rflOyH0I6/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1tm_cG2W94KggfikKkF-W0Te3vs5kLyfn/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/yashasjkumar/",
   twitter: "https://x.com/",
   insta: "https://www.instagram.com/",
