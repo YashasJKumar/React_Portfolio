@@ -54,12 +54,12 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://www.svgrepo.com/show/452185/css-3.svg",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://www.svgrepo.com/show/452045/js.svg",
       },
       {
         name: "Bootstrap",
@@ -106,7 +106,7 @@ export const skills = [
       {
         name: "Scikit-Learn",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
+          "https://www.svgrepo.com/show/473778/scikitlearn.svg",
       },
     ],
   },
@@ -126,7 +126,7 @@ export const skills = [
       {
         name: "JetBrains-IDE's",
         image:
-          "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/640px-JetBrains_beam_logo.svg.png",
+          "https://www.svgrepo.com/show/353932/jetbrains.svg",
       },
       {
         name: "Streamlit",
@@ -140,7 +140,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://nexstor.com/wp-content/uploads/2022/07/HPE.svg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5LkpNxh2BZXU022Jppxb7oBDtnBmUnQc2PA&s",
     role: "Project Intern",
     company: "HPE",
     date: "January 2024 - June 2024",
@@ -158,24 +158,12 @@ export const experiences = [
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
-  {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/D4D05AQHl12G1zFDm9Q/videocover-low/0/1694101221841?e=2147483647&v=beta&t=Vh9jK13K3CCHSlbPPrbuzJUD6fmQklh85dzmx3SLulE",
-    role: "ML Intern",
-    company: "Bharat Intern",
-    date: "May 2024 - June 2024",
-    desc: "Developed predictive models for house prices, recommendation system for movies, Classification model for Iris",
-    skills: [
-      "Machine Learning",
-      "Scikit-Learn",
-    ],
-  },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://api.learntechww.com/college_logo/logo1747830943224.webp",
+    img: "https://rvce.edu.in/wp-content/uploads/2025/08/Logo-2.png",
     school: "R V College of Engineering, Bengaluru",
     date: "2025 - Present",
     grade: " - ",
