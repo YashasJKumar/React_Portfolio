@@ -106,7 +106,7 @@ export const skills = [
       {
         name: "Scikit-Learn",
         image:
-          "https://www.svgrepo.com/show/473778/scikitlearn.svg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s",
       },
     ],
   },
@@ -140,7 +140,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5LkpNxh2BZXU022Jppxb7oBDtnBmUnQc2PA&s",
+    img: "https://www.hpe.com/content/dam/hpe/newsroom/2025/06/hpe-marks-10-year-anniversary-with-bold-new-brand.jpg",
     role: "Project Intern",
     company: "HPE",
     date: "January 2024 - June 2024",
@@ -163,7 +163,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://rvce.edu.in/wp-content/uploads/2025/08/Logo-2.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW6wELUMSuSckrpRCA2_uEq8FysIZAuTcyTQ&s",
     school: "R V College of Engineering, Bengaluru",
     date: "2025 - Present",
     grade: " - ",
@@ -187,15 +187,6 @@ export const education = [
     grade: "97.44%",
     desc: "I completed my class 12 at Marimallappa's Pre-University College, Mysuru",
     degree: "II-PUC -> PCMC",
-  },
-  {
-    id: 3,
-    img: "https://career.webindia123.com/career/institutes/aspupload/Uploads/karnataka/21502/logo.jpg",
-    school: "Marimallappa's High School, Mysuru",
-    date: "2018-2019",
-    grade: "97%",
-    desc: "I completed my class 10 education at Marimallappa's High School, Mysuru.",
-    degree: "SSLC",
   },
 ];
 
