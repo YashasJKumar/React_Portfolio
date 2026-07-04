@@ -91,7 +91,7 @@ export const skills = [
       },
       {
         name: "Jinja2",
-        image: "https://www.svgrepo.com/show/373702/jinja.svg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jinja_software_logo.svg/960px-Jinja_software_logo.svg.png?_=20181208104937",
       },
     ],
   },
