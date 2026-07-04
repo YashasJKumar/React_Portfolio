@@ -391,5 +391,31 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 5,
+    title: "Campus MarketPlace",
+    date: "Jul 2026",
+    description:
+      "A secure, peer-to-peer mobile marketplace for verified university students, featuring a real-time negotiation engine and frictionless UPI payment integration.",
+    image:
+      "https://cdn-icons-gif.flaticon.com/6416/6416379.gif",
+    tags: [
+        "Javascript",
+        "React Native",
+        "Expo",
+        "Firebase"
+    ],
+    category: "android-app",
+    github: "https://github.com/YashasJKumar/CampusMarketPlace",
+    webapp: "https://github.com/YashasJKumar/CampusMarketPlace",
+    member: [
+      {
+        name: "Yashas J Kumar",
+        img: "https://avatars.githubusercontent.com/u/96472550?s=400&u=84332ef1d5f8824b4d4ee09922ff68b5b87c9fca&v=4",
+        linkedin: "https://www.linkedin.com/in/yashasjkumar/",
+        github: "https://github.com/yashasjkumar/",
+      },
+    ],
+  },
 ];
 
