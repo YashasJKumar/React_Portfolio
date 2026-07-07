@@ -136,10 +136,12 @@ const ResumeButton = styled.a`
   appearance: button;
   text-decoration: none;
 
-  width: 95%;
-  max-width: 300px;
+  max-width: 340px;
+  width: fit-content;
+  min-width: 220px;
   text-align: center;
-  padding: 16px 0;
+  padding: 16px 32px;
+  line-height: 24px;
 
   background: hsla(271, 100%, 50%, 1);
   background: linear-gradient(
