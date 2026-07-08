@@ -12,9 +12,8 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1tm_cG2W94KggfikKkF-W0Te3vs5kLyfn/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/yashasjkumar/",
-  twitter: "https://x.com/",
-  insta: "https://www.instagram.com/",
-  facebook: "https://www.facebook.com/",
+  twitter: "https://x.com/Yashas_J_Kumar",
+  insta: "https://www.instagram.com/_yashas_j_k_/",
 };
 
 export const skills = [
