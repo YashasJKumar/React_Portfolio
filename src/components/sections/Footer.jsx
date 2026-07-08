@@ -5,8 +5,8 @@ import {
   FacebookRounded,
   Instagram,
   LinkedIn,
-  Twitter,
 } from "@mui/icons-material";
+import XIcon from '@mui/icons-material/X';
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -93,11 +93,8 @@ const Footer = () => {
           <NavLink href="#Education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target="display">
-            <FacebookRounded />
-          </SocialMediaIcon>
           <SocialMediaIcon href={Bio.twitter} target="display">
-            <Twitter />
+            <XIcon />
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedIn />
